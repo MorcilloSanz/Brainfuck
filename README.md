@@ -1,2 +1,3 @@
-# Brainfuck
-Here I save my Brainfuck scripts
+# Brainfuck :brain:
+
+Programs in Brainfuck written by me. Maybe there is a better way to do them
