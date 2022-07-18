@@ -1,3 +1,16 @@
 # Brainfuck :brain:
 
-Programs in Brainfuck written by me. Maybe there is a better way to do them
+Programs in Brainfuck written by me
+
+## Brainfuck to C 
+
+```c
+>	++ptr;
+<	--ptr;
++	++*ptr;
+-	--*ptr;
+.	putchar(*ptr);
+,	*ptr=getchar();
+[	while (*ptr) {
+]	}
+```
